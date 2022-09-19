@@ -1,0 +1,28 @@
+h1, p {
+    text-align: center;
+}
+body {
+    background-color: rgb(248, 232, 166);
+}
+.reference {
+display: block;
+    text-align: center;
+}
+
+.reference:visited {
+    color: green;
+}
+
+a {
+    color: green;
+}
+
+.contact {
+    color: blue;
+}
+img {
+    max-width:100%;
+    height: auto;
+    display: block;
+margin: 0 auto;
+}
